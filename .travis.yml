@@ -14,6 +14,9 @@ script:
   - curl -L https://github.com/gohugoio/hugo/releases/download/v0.55.6/hugo_0.55.6_Linux-64bit.tar.gz | tar xz
   - ./hugo
   - cd public
+  - git remote set-url origin git@github.com:elileka/elileka.github.io.git
+  - git checkout master
+  - git pull origin master
   - git add .
   - git commit -m "Build website"
   - git push origin master
