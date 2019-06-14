@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Eli Levy Karin"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,24 +9,24 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Postdoc of Computational Biology"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "Max-Planck Institute for Biophysical Chemistry", url = "https://www.mpibpc.mpg.de/en" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
-interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
-]
+#interests = [
+#  "Eukaryotic Metagenomics",
+#  "Sequence Analysis",
+#  "Molecular Evolution"
+#]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -34,18 +34,23 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Molecular Evolution"
+  institution = "Tel Aviv University"
+  year = 2018
+  
+[[education.courses]]
+  course = "MSc in Theoretical and Mathematical Biology"
+  institution = "Tel Aviv University"
+  year = 2014
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "BSc in Computer Science"
+  institution = "Tel Aviv University"
+  year = 2011
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "BSc in Biology"
+  institution = "Tel Aviv University"
   year = 2008
 
 # Social/Academic Networking
@@ -56,32 +61,31 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
-
-[[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+  link = "mailto:elilevy@post.tau.ac.il"
 
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://scholar.google.de/citations?hl=en&user=DBhNkjQAAAAJ"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://github.com/elileka"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[social]]
-#   icon = "cv"
-#   icon_pack = "ai"
-#   link = "files/cv.pdf"
+[[social]]
+  icon = "cv"
+  icon_pack = "ai"
+  link = "files/Eli_Levy_Karin_CV.pdf"
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a postdoc with [Dr. Johannes Söding] (https://www.mpibpc.mpg.de/soeding) at the Quantitative and Computational Biology group 
+at MPIBPC.
+I develop tools for the analysis of eukaryotic metagenomic data.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Before that, I did my PhD at the departments of [Cell Research & Immunology] (https://en-lifesci.tau.ac.il/cell_research_immunology) and [Molecular Biology & Ecology of Plants] (https://en-lifesci.tau.ac.il/plant_sciences) 
+at TAU under the joint supervision of [Prof. Tal Pupko] (https://m.tau.ac.il/~talp/) and [Prof. Itay Mayrose] (https://www.tau.ac.il/~itaymay/).
+My work focused on statistical techniques in molecular evolution.

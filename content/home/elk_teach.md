@@ -1,16 +1,11 @@
 +++
-# A Featured Publications section created with the Featured Content widget.
-# This section displays publications from `content/publication/` which have
-# `featured = true` in their front matter.
 
-widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 80  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 90  # Order that this section will appear.
 
-title = "Publications"
+title = "Teaching"
 subtitle = ""
-
 
 [design]
   # Toggle between the various page layout types.
@@ -18,8 +13,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 1
-  
+
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -49,4 +43,18 @@ subtitle = ""
  css_class = ""
 +++
 
-  
+
+- Perl programming for biology students (0455-3065)
+	- [fall 2016-2017] (https://sites.google.com/site/perlforbio2017/)
+	- [fall 2015-2016] (https://sites.google.com/site/perlforbio2016/)
+	- [fall 2014-2015] (https://sites.google.com/site/perlforbio2015/)
+	- [fall 2013-2014] (https://sites.google.com/site/perlforbio2014/)
+	- fall 2012-2013
+	
+​
+
+- Math introductory course for biology students (8888-42002)
+	- Summer 2015
+	- Summer 2014
+	- Summer 2013
+
