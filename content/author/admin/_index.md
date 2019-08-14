@@ -1,4 +1,6 @@
 +++
+<meta name="google-site-verification" content="HdiWiprtLC1gsb9ruxfrssMU8Nm2hZlm9uuXmg1nfAM" />
+
 # Display name
 name = "Eli Levy Karin"
 
