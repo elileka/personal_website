@@ -43,7 +43,7 @@ subtitle = ""
  css_class = ""
 +++
 
-1. **Levy Karin E**, Mirdita M, & Soeding J. MetaEuk – sensitive, high-throughput gene discovery and annotation for large-scale eukaryotic metagenomics. submitted, 2019.
+1. **Levy Karin E**, Mirdita M, & Soeding J. MetaEuk – sensitive, high-throughput gene discovery and annotation for large-scale eukaryotic metagenomics. Microbiome. 2020; 8:48. [PDF](https://rdcu.be/b3ozK)
 + **Levy Karin E**, Ashkenazy H, Hein J, & Pupko T. A simulation-based approach to statistical alignment. Systematic Biology. 2019; 2:252-266. [PDF](https://academic.oup.com/sysbio/article-pdf/68/2/252/27739173/syy059.pdf)
 - Ashkenazy H, Sela I, **Levy Karin E**, Landan G, & Pupko T. Multiple sequence alignment averaging improves phylogeny reconstruction. Systematic Biology. 2019; 1:117–130. [PDF] (https://academic.oup.com/sysbio/article-pdf/68/1/117/27127304/syy036.pdf)
 - Lavi B, **Levy Karin E**, Pupko T, & Hazkani-Covo E. The prevalence and evolutionary conservation of inverted repeats in proteobacteria. Genome Biology and Evolution. 2018; 3:918–927. [PDF] (https://academic.oup.com/gbe/article-pdf/10/3/918/24820113/evy044.pdf)
