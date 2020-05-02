@@ -43,8 +43,9 @@ subtitle = ""
  css_class = ""
 +++
 
-1. **Levy Karin E**, Mirdita M, & Soeding J. MetaEuk – sensitive, high-throughput gene discovery and annotation for large-scale eukaryotic metagenomics. Microbiome. 2020; 8:48. [PDF](https://rdcu.be/b3ozK)
-+ **Levy Karin E**, Ashkenazy H, Hein J, & Pupko T. A simulation-based approach to statistical alignment. Systematic Biology. 2019; 2:252-266. [PDF](https://academic.oup.com/sysbio/article-pdf/68/2/252/27739173/syy059.pdf)
+1. Halabi K, **Levy Karin E**^, Guéguen L, & Mayrose I^. TraitRELAX - A codon model for associating phenotypic traits with altered selective patterns of sequence evolution. Submitted. 2020. [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2020.03.04.974584v2)
++ **Levy Karin E**, Mirdita M, & Soeding J. MetaEuk – sensitive, high-throughput gene discovery and annotation for large-scale eukaryotic metagenomics. Microbiome. 2020; 8:48. [PDF](https://rdcu.be/b3ozK)
+- **Levy Karin E**, Ashkenazy H, Hein J, & Pupko T. A simulation-based approach to statistical alignment. Systematic Biology. 2019; 2:252-266. [PDF](https://academic.oup.com/sysbio/article-pdf/68/2/252/27739173/syy059.pdf)
 - Ashkenazy H, Sela I, **Levy Karin E**, Landan G, & Pupko T. Multiple sequence alignment averaging improves phylogeny reconstruction. Systematic Biology. 2019; 1:117–130. [PDF] (https://academic.oup.com/sysbio/article-pdf/68/1/117/27127304/syy036.pdf)
 - Lavi B, **Levy Karin E**, Pupko T, & Hazkani-Covo E. The prevalence and evolutionary conservation of inverted repeats in proteobacteria. Genome Biology and Evolution. 2018; 3:918–927. [PDF] (https://academic.oup.com/gbe/article-pdf/10/3/918/24820113/evy044.pdf)
 - Mushegian A, **Levy Karin E**, & Pupko T. Sequence analysis of malacoherpesvirus proteins: pan-herpesvirus capsid module and replication enzymes with an ancient connection to - "Megavirales". Virology. 2018; 513: 114-128. [PDF] (https://www.sciencedirect.com/science/article/pii/S0042682217303513/pdfft?md5=368336fcd5bcf59771691469ceb7f34b&pid=1-s2.0-S0042682217303513-main.pdf)
