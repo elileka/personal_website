@@ -43,7 +43,7 @@ subtitle = ""
  css_class = ""
 +++
 
-1. Mirdita M, Steinegger M, Breitwieser F, Soeding J^^, & **Levy Karin E**^. Fast and sensitive taxonomic assignment to metagenomic contigs. Submitted. 2020.
+1. Mirdita M, Steinegger M, Breitwieser F, Soeding J^, & **Levy Karin E**^. Fast and sensitive taxonomic assignment to metagenomic contigs. Submitted. 2020.
 + Zhang R, Mirdita M, **Levy Karin E**, Norroy C, Galiez C, & Soeding J. SpacePHARER: Sensitive identification of phages from CRISPR spacers in prokaryotic hosts. Submitted. 2020. [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2020.05.15.090266v1)
 - Halabi K, **Levy Karin E**^, Guéguen L, & Mayrose I^. TraitRELAX - A codon model for associating phenotypic traits with altered selective patterns of sequence evolution. Accepted to Systematic Biology. 2020. [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2020.03.04.974584v2)
 - **Levy Karin E**, Mirdita M, & Soeding J. MetaEuk – sensitive, high-throughput gene discovery and annotation for large-scale eukaryotic metagenomics. Microbiome. 2020; 8:48. [PDF](https://rdcu.be/b3ozK)
