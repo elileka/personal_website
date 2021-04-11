@@ -62,7 +62,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "mailto:elilevy@post.tau.ac.il"
+  link = "mailto:eli.levy.karin@gmail.com"
 
 [[social]]
   icon = "google-scholar"
@@ -83,7 +83,7 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am a postdoc with [Dr. Johannes Söding] (https://www.mpibpc.mpg.de/soeding) at the Quantitative and Computational Biology group 
+I was a postdoc with [Dr. Johannes Söding] (https://www.mpibpc.mpg.de/soeding) at the Quantitative and Computational Biology group 
 at MPIBPC.
 I develop tools for the analysis of eukaryotic metagenomic data.  
 
