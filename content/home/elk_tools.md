@@ -74,7 +74,7 @@ subtitle = ""
 
 <div class="row">
   <div class="columnWide">
-    <p><b>MetaEuk</b> is a modular toolkit designed for large-scale gene discovery and annotation in eukaryotic metagenomic contigs. It combines the fast and sensitive homology search capabilities with a dynamic programming procedure to recover optimal exons sets. It reduces redundancies in multiple discoveries of the same gene and resolves conflicting gene predictions.
+    <p><b>MetaEuk</b> is a modular toolkit designed for large-scale gene discovery and annotation in eukaryotic metagenomic contigs. It combines fast and sensitive homology search capabilities with a dynamic programming procedure to recover optimal exons sets. It reduces redundancies in multiple discoveries of the same gene and resolves conflicting gene predictions.
 	</p>
   </div>
   <div class="columnNarrow">
