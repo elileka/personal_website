@@ -15,7 +15,7 @@ jobs:
       run: |
         git config --global user.email "eli.levy.karin@gmail.com"
         git config --global user.name "Eli Levy Karin"
-        git clone git@github.com:elileka/elileka.github.io.git public
+        git clone https://github.com/elileka/elileka.github.io.git public
         curl -L https://github.com/gohugoio/hugo/releases/download/v0.55.6/hugo_0.55.6_Linux-64bit.tar.gz | tar xz
         ./hugo
         cd public
