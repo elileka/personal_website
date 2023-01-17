@@ -9,8 +9,7 @@ jobs:
     steps:
     - uses: actions/checkout@v3
       with:
-        ref: ${{ github.head_ref }}
-        fetch-depth: 0
+        submodules: 'true'
     - name: Commit files
       run: |
         git config --global user.email "eli.levy.karin@gmail.com"
@@ -25,3 +24,5 @@ jobs:
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.ACTIONS_UPDATE_HOMEPAGE }}
+        directory: public
+        repository: "https://github.com/elileka/elileka.github.io.git"
