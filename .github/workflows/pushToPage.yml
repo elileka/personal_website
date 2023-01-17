@@ -23,7 +23,7 @@ jobs:
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
-        branch: main
         github_token: ${{ secrets.ACTIONS_UPDATE_HOMEPAGE }}
         directory: public
         repository: "https://github.com/elileka/elileka.github.io.git"
+        branch: master
