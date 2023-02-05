@@ -44,7 +44,7 @@ subtitle = ""
 +++
 
 1. Raghavan V, Eichele G, Larink O, **Levy Karin E**, & Söding J. RNA sequencing indicates widespread conservation of circadian clocks in marine zooplankton. NAR Genomics and Bioinformatics. 2023. lqad007. [PDF](https://academic.oup.com/nargab/article-pdf/5/1/lqad007/48992000/lqad007.pdf)
-+. Mirdita M, Steinegger M, Breitwieser F, Soeding J^, & **Levy Karin E**^. Fast and sensitive taxonomic assignment to metagenomic contigs. Bioinformatics. 2021; btab184. [PDF](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab184/6178277)
++ Mirdita M, Steinegger M, Breitwieser F, Soeding J^, & **Levy Karin E**^. Fast and sensitive taxonomic assignment to metagenomic contigs. Bioinformatics. 2021; btab184. [PDF](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab184/6178277)
 - Zhang R, Mirdita M, **Levy Karin E**, Norroy C, Galiez C, & Soeding J. SpacePHARER: Sensitive identification of phages from CRISPR spacers in prokaryotic hosts. Bioinformatics. 2021; btab222. [PDF](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab222/6207963)
 - Halabi K, **Levy Karin E**^, Guéguen L, & Mayrose I^. TraitRELAX - A codon model for associating phenotypic traits with altered selective patterns of sequence evolution. Systematic Biology. 2020; syaa087. [PDF](https://academic.oup.com/sysbio/advance-article-abstract/doi/10.1093/sysbio/syaa087/6012374?redirectedFrom=fulltext)
 - **Levy Karin E**, Mirdita M, & Soeding J. MetaEuk – sensitive, high-throughput gene discovery and annotation for large-scale eukaryotic metagenomics. Microbiome. 2020; 8:48. [PDF](https://rdcu.be/b3ozK)
