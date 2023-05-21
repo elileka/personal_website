@@ -89,10 +89,10 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am an independent scientific consultant. 
-  My clients include the [Steinegger lab] (https://steineggerlab.com/en/) at [SNU] (https://www.snu.ac.kr/).
+I am an independent scientific consultant.  
+My clients include the [Steinegger lab] (https://steineggerlab.com/en/) at [SNU] (https://www.snu.ac.kr/).
 
 Before that I was a postdoc with [Dr. Johannes Söding] (https://www.mpibpc.mpg.de/soeding) at [MPIBPC] (https://www.mpinat.mpg.de/en), where I developed tools for the analysis of eukaryotic metagenomic data.  
 
-Before that, I did my PhD at [TAU] (https://english.tau.ac.il/) under the joint supervision of [Prof. Tal Pupko] (https://m.tau.ac.il/~talp/) and [Prof. Itay Mayrose] (https://www.tau.ac.il/~itaymay/).
-  My work focused on statistical techniques in molecular evolution.
+Before that, I did my PhD at [TAU] (https://english.tau.ac.il/) under the joint supervision of [Prof. Tal Pupko] (https://m.tau.ac.il/~talp/) and [Prof. Itay Mayrose] (https://www.tau.ac.il/~itaymay/).  
+My work focused on statistical techniques in molecular evolution.
