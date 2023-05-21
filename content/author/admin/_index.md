@@ -89,7 +89,8 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am an independent scientist, working under the name ELKMO. My clients include the [Steinegger lab] (https://steineggerlab.com/en/) at [SNU] (https://www.snu.ac.kr/).
+I am an independent scientist, working under the name ELKMO. 
+My clients include the [Steinegger lab] (https://steineggerlab.com/en/) at [SNU] (https://www.snu.ac.kr/).
 
 Before that I was a postdoc with [Dr. Johannes Söding] (https://www.mpibpc.mpg.de/soeding) at [MPIBPC] (https://www.mpinat.mpg.de/en), where I developed tools for the analysis of eukaryotic metagenomic data.  
 
