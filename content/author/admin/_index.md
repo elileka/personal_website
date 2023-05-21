@@ -25,6 +25,7 @@ email = ""
 # List (academic) interests or hobbies
 #interests = [
 #  "Eukaryotic Metagenomics",
+#  "Taxonomic classification"
 #  "Sequence Analysis",
 #  "Molecular Evolution"
 #]
@@ -35,7 +36,7 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "Postdoc of Computational Biology"
+  course = "Postdoc in Computational Biology"
   institution = "Max-Planck Institute for Biophysical Chemistry"
   year = 2021
   
