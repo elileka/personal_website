@@ -10,11 +10,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Postdoc of Computational Biology"
+role = "Independent scientist"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Max-Planck Institute for Biophysical Chemistry", url = "https://www.mpibpc.mpg.de/en" } ]
+organizations = [ { name = "ELKMO" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -34,6 +34,11 @@ email = ""
 user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
+[[education.courses]]
+  course = "Postdoc of Computational Biology"
+  institution = "Max-Planck Institute for Biophysical Chemistry"
+  year = 2021
+  
 [[education.courses]]
   course = "PhD in Molecular Evolution"
   institution = "Tel Aviv University"
@@ -83,10 +88,10 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I was a postdoc with [Dr. Johannes Söding] (https://www.mpibpc.mpg.de/soeding) at the Quantitative and Computational Biology group 
-at MPIBPC.
-I develop tools for the analysis of eukaryotic metagenomic data.  
+I am an independent scientist, working under the name ELKMO. My clients include the [Steinegger lab] (https://steineggerlab.com/en/) at Seoul National University.
+
+Before that I was a postdoc with [Dr. Johannes Söding] (https://www.mpibpc.mpg.de/soeding) at the Quantitative and Computational Biology group 
+at MPIBPC, where I developed tools for the analysis of eukaryotic metagenomic data.  
 
 Before that, I did my PhD at the departments of [Cell Research & Immunology] (https://en-lifesci.tau.ac.il/cell_research_immunology) and [Molecular Biology & Ecology of Plants] (https://en-lifesci.tau.ac.il/plant_sciences) 
-at TAU under the joint supervision of [Prof. Tal Pupko] (https://m.tau.ac.il/~talp/) and [Prof. Itay Mayrose] (https://www.tau.ac.il/~itaymay/).
-My work focused on statistical techniques in molecular evolution.
+at TAU under the joint supervision of [Prof. Tal Pupko] (https://m.tau.ac.il/~talp/) and [Prof. Itay Mayrose] (https://www.tau.ac.il/~itaymay/). My work focused on statistical techniques in molecular evolution.
