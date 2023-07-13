@@ -45,11 +45,11 @@ subtitle = ""
 
 
 - Perl programming for biology students (0455-3065)
-	- fall 2016-2017
-	- fall 2015-2016
-	- fall 2014-2015
-	- fall 2013-2014
-	- fall 2012-2013
+	- Fall 2016-2017
+	- Fall 2015-2016
+	- Fall 2014-2015
+	- Fall 2013-2014
+	- Fall 2012-2013
 	
 ​
 
