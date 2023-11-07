@@ -24,8 +24,9 @@ email = ""
 
 # List (academic) interests or hobbies
 #interests = [
+#  "Protein Structure Prediction",
 #  "Eukaryotic Metagenomics",
-#  "Taxonomic classification"
+#  "Taxonomic Classification"
 #  "Sequence Analysis",
 #  "Molecular Evolution"
 #]
@@ -89,7 +90,7 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am an independent scientific consultant.  
+I work as a scientific consultant at ELKMO (registered CVR 43917897).  
 My clients include the [Steinegger lab] (https://steineggerlab.com/en/) at [SNU] (https://www.snu.ac.kr/).
 
 Before that I was a postdoc with [Dr. Johannes Söding] (https://www.mpibpc.mpg.de/soeding) at [MPIBPC] (https://www.mpinat.mpg.de/en), where I developed tools for the analysis of eukaryotic metagenomic data.  
