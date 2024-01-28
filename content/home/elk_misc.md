@@ -4,8 +4,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 100  # Order that this section will appear.
 
-title = ""
-subtitle = ""
+title = "כך שמעה הלטאה"
+subtitle = "שירי ילדות"
 
 [design]
   # Toggle between the various page layout types.
@@ -43,13 +43,11 @@ subtitle = ""
  css_class = ""
 +++
 <div style="text-align: center">
-  כך שמעה הלטאה // שירי ילדות
-  <br>
+
   שירים מלווים באיורים
-  
+<a href="files/Kakh_Shamaa_Haletaa_for_screen.pdf" target="_blank">להורדה בחינם בפורמט המתאים למסך</a>  
 <img src="img\EllaElinor.jpg"/>
 
-<a href="files/Kakh_Shamaa_Haletaa_for_screen.pdf" target="_blank">להורדה בחינם בפורמט המתאים למסך</a>
 </div>
 
 
