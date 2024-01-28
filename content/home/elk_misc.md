@@ -2,7 +2,7 @@
 
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+weight = 100  # Order that this section will appear.
 
 title = ""
 subtitle = ""
@@ -30,7 +30,7 @@ subtitle = ""
   
   # Background image.
   image = "EllaElinor.jpg"  # Name of image in `static/img/`.
-  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_darken = 0.8  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
