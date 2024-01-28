@@ -22,7 +22,12 @@
   name = "Teaching"
   url = "#elk_teach"
   weight = 40
-  
+
+[[main]]
+  name = "Misc"
+  url = "#elk_misc"
+  weight = 40  
+
 [[main]]
   name = "Contact"
   url = "#contact"
