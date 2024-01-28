@@ -42,7 +42,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<html dir="rtl" lang="he">
+
+<p dir="rtl">Write this text right-to-left!</p>
 <div style="text-align: center">
 
   שירים מלווים באיורים
@@ -50,7 +51,7 @@ subtitle = ""
 <img src="img\EllaElinor.jpg"/>
 
 </div>
-</html>
+</p>
 
 
 
