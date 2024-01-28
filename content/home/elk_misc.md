@@ -44,17 +44,5 @@ subtitle = ""
 +++
 
 
-- Perl programming for biology students (0455-3065)
-	- Fall 2016-2017
-	- Fall 2015-2016
-	- Fall 2014-2015
-	- Fall 2013-2014
-	- Fall 2012-2013
-	
-​
-
-- Math introductory course for biology students (8888-42002)
-	- Summer 2015
-	- Summer 2014
-	- Summer 2013
+כך שמעה הלטאה
 
