@@ -42,11 +42,14 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-
-#<img src="img\EllaElinor.jpg" style="height: 250px"/>
+<div style="text-align: center">
+  כך שמעה הלטאה // שירי ילדות
+  11 שירים, מלווים באיורים.
+  
 <img src="img\EllaElinor.jpg"/>
-<a href="files/Kakh_Shamaa_Haletaa_for_screen.pdf" target="_blank">כך שמעה הלטאה</a>
+
+<a href="files/Kakh_Shamaa_Haletaa_for_screen.pdf" target="_blank">להורדה בחינם בפורמט המתאים למסך</a>
+</div>
 
 
 
