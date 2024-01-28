@@ -44,8 +44,8 @@ subtitle = ""
 +++
 
 <div style="text-align: center">
-<p dir="rtl">כך שמעה הלטאה</p>
-<p dir="rtl">שירי ילדות מלווים באיורים</p>  
+<h2>כך שמעה הלטאה</h2>
+<p dir="rtl">11 שירי ילדות מלווים באיורים</p>  
 <a href="files/Kakh_Shamaa_Haletaa_for_screen.pdf" target="_blank">להורדה בחינם בפורמט המתאים למסך</a>  
 <img src="img\EllaElinor.jpg"/>
 </div>
