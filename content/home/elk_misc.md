@@ -4,8 +4,10 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 100  # Order that this section will appear.
 
-title = "כך שמעה הלטאה"
-subtitle = "שירי ילדות"
+<html dir="rtl" lang="he">
+  
+title = ""
+subtitle = ""
 
 [design]
   # Toggle between the various page layout types.
@@ -49,6 +51,7 @@ subtitle = "שירי ילדות"
 <img src="img\EllaElinor.jpg"/>
 
 </div>
+</html>
 
 
 
