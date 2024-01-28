@@ -3,8 +3,6 @@
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 100  # Order that this section will appear.
-
-<html dir="rtl" lang="he">
   
 title = ""
 subtitle = ""
@@ -44,6 +42,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+<html dir="rtl" lang="he">
 <div style="text-align: center">
 
   שירים מלווים באיורים
