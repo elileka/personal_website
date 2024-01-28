@@ -26,12 +26,12 @@
 [[main]]
   name = "Misc"
   url = "#elk_misc"
-  weight = 40  
+  weight = 50  
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 50
+  weight = 60
 
 #[[main]]
 #  name = "Posts"
