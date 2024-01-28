@@ -4,7 +4,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 100  # Order that this section will appear.
 
-title = "שירי ילדות"
+title = ""
 subtitle = ""
 
 [design]
@@ -45,7 +45,7 @@ subtitle = ""
 <div style="text-align: center">
   כך שמעה הלטאה // שירי ילדות
   <br>
-  11 שירים, מלווים באיורים
+  שירים מלווים באיורים
   
 <img src="img\EllaElinor.jpg"/>
 
