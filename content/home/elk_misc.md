@@ -29,8 +29,8 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "EllaElinor.jpg"  # Name of image in `static/img/`.
-  image_darken = 1  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  # image = "EllaElinor.jpg"  # Name of image in `static/img/`.
+  # image_darken = 1  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
@@ -44,8 +44,9 @@ subtitle = ""
 +++
 
 
-<img src="img\EllaElinor.jpg" style="height: 250px"/>
-<a href="https://github.com/soedinglab/metaeuk" target="_blank">כך שמעה הלטאה</a>
+#<img src="img\EllaElinor.jpg" style="height: 250px"/>
+<img src="img\EllaElinor.jpg"/>
+<a href="files/Kakh_Shamaa_Haletaa_for_screen.pdf" target="_blank">כך שמעה הלטאה</a>
 
 
 
