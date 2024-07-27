@@ -43,8 +43,8 @@ subtitle = ""
  css_class = ""
 +++
 
-1. Kim W, Mirdita M, **Levy Karin E**, Gilchrist CL, Schweke H, Söding J, Levy E and Steinegger M. Rapid and Sensitive Protein Complex Alignment with Foldseek-Multimer. BioRxiv. 2024. DOI: 10.1101\/2024.04.14.589414
-+ Kim G^, Lee S^, **Levy Karin E**^, Kim H, Moriwaki Y, Ovchinnikov S, Steinegger M and Mirdita M. Easy and accurate protein structure prediction using ColabFold. Submitted. 2023. DOI: 10.21203/rs.3.pex-2490/v1
+1. Kim W, Mirdita M, **Levy Karin E**, Gilchrist CL, Schweke H, Söding J, Levy E and Steinegger M. Rapid and Sensitive Protein Complex Alignment with Foldseek-Multimer. BioRxiv. 2024.
++ Kim G^, Lee S^, **Levy Karin E**^, Kim H, Moriwaki Y, Ovchinnikov S, Steinegger M and Mirdita M. Easy and accurate protein structure prediction using ColabFold. Submitted. 2023.
 - Lee S, Kim G, **Levy Karin E**, Mirdita M, Park S, Chikhi R, Babaian A, Kryshtafovych A, & Steinegger M. Petabase-Scale Homology Search for Structure Prediction. Cold Spring Harbor Perspectives in Biology. 2024. a041465. [PDF](http://m.cshperspectives.cshlp.org/content/early/2024/02/05/cshperspect.a041465.full.pdf)
 - Raghavan V, Eichele G, Larink O, **Levy Karin E**, & Söding J. RNA sequencing indicates widespread conservation of circadian clocks in marine zooplankton. NAR Genomics and Bioinformatics. 2023. lqad007. [PDF](https://academic.oup.com/nargab/article-pdf/5/1/lqad007/48992000/lqad007.pdf)
 - Mirdita M, Steinegger M, Breitwieser F, Soeding J^, & **Levy Karin E**^. Fast and sensitive taxonomic assignment to metagenomic contigs. Bioinformatics. 2021; btab184. [PDF](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab184/6178277)
