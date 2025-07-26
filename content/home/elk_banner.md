@@ -22,7 +22,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  # color = "navy"
+  color = "yellow"
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
@@ -35,7 +35,7 @@ subtitle = ""
  css_class = ""
 +++
 
-<div style="background-color: yellow; text-align: center; padding: 10px; font-weight: bold;">
+<div style="text-align: left; padding: 10px; font-weight: bold;">
   FREE GAZA &nbsp;&nbsp;-&nbsp;&nbsp; STOP THE GENOCIDE &nbsp;&nbsp;-&nbsp;&nbsp; RELEASE THE HOSTAGES
   <br>
   <span style="font-weight: normal; font-size: 0.85em;">
