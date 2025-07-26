@@ -22,7 +22,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  color = "yellow"
+  color = "#fff3b0"
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
@@ -35,15 +35,12 @@ subtitle = ""
  css_class = ""
 +++
 
-<div style="text-align: center; padding: 10px; font-weight: bold;">
-  FREE GAZA &nbsp;&nbsp;-&nbsp;&nbsp; STOP THE GENOCIDE &nbsp;&nbsp;-&nbsp;&nbsp; RELEASE THE HOSTAGES
-  <br>
+<div id="banner" border-bottom: 1px solid #ccc; padding: 12px; text-align: center; font-weight: 600; font-size: 1rem;">
+  <span style="color: #000;">FREE GAZA – STOP THE GENOCIDE – RELEASE THE HOSTAGES</span>
   <br>
   <span style="font-weight: normal; font-size: 0.9em;">
-    <a href="https://www.thedailyfile.org/forcibly-involved" target="_blank">forcibly involved</a>
-    <span style="display: inline-block; width: 6px; height: 6px; background-color: black; border-radius: 50%; margin: 0 8px; vertical-align: middle;"></span>
-    <a href="https://www.cleanshelter.org/" target="_blank">clean shelter</a>
-    <span style="display: inline-block; width: 6px; height: 6px; background-color: black; border-radius: 50%; margin: 0 8px; vertical-align: middle;"></span>
+    <a href="https://www.thedailyfile.org/forcibly-involved" target="_blank">forcibly involved</a> |
+    <a href="https://www.cleanshelter.org/" target="_blank">clean shelter</a> |
     <a href="https://www.standing-together.org/en" target="_blank">standing together</a>
   </span>
 </div>
