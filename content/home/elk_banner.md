@@ -35,10 +35,11 @@ subtitle = ""
  css_class = ""
 +++
 
-<div style="text-align: left; padding: 10px; font-weight: bold;">
+<div style="text-align: center; padding: 10px; font-weight: bold;">
   FREE GAZA &nbsp;&nbsp;-&nbsp;&nbsp; STOP THE GENOCIDE &nbsp;&nbsp;-&nbsp;&nbsp; RELEASE THE HOSTAGES
   <br>
-  <span style="font-weight: normal; font-size: 0.85em;">
+  <br>
+  <span style="font-weight: normal; font-size: 0.9em;">
     <a href="https://www.thedailyfile.org/forcibly-involved" target="_blank">forcibly involved</a>
     <span style="display: inline-block; width: 6px; height: 6px; background-color: black; border-radius: 50%; margin: 0 8px; vertical-align: middle;"></span>
     <a href="https://www.cleanshelter.org/" target="_blank">clean shelter</a>
