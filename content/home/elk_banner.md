@@ -3,7 +3,6 @@
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
-column = "left"
   
 title = ""
 subtitle = ""
@@ -40,8 +39,10 @@ subtitle = ""
   <span style="color: #000;">FREE GAZA – STOP THE GENOCIDE – RELEASE THE HOSTAGES</span>
   <br>
   <span style="font-weight: normal; font-size: 0.9em;">
-    <a href="https://www.thedailyfile.org/forcibly-involved" target="_blank">forcibly involved</a> |
-    <a href="https://www.cleanshelter.org/" target="_blank">clean shelter</a> |
+    <a href="https://www.thedailyfile.org/forcibly-involved" target="_blank">forcibly involved</a>
+    <span style="display: inline-block; width: 6px; height: 6px; border-radius: 50%; margin: 0 8px; vertical-align: middle;"></span>
+    <a href="https://www.cleanshelter.org/" target="_blank">clean shelter</a>
+    <span style="display: inline-block; width: 6px; height: 6px; border-radius: 50%; margin: 0 8px; vertical-align: middle;"></span>
     <a href="https://www.standing-together.org/en" target="_blank">standing together</a>
   </span>
 </div>
