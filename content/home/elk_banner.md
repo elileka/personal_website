@@ -36,7 +36,7 @@ subtitle = ""
 +++
 
 <div style="text-align: center; padding: 10px; font-weight: bold;">
-  FREE GAZA &nbsp;&nbsp;-&nbsp;&nbsp; STOP THE GENOCIDE &nbsp;&nbsp;-&nbsp;&nbsp; RELEASE THE HOSTAGES
+  JUSTICE FOR PALESTINE &nbsp;&nbsp;-&nbsp;&nbsp; END ISRAELI APARTHEID &nbsp;&nbsp;-&nbsp;&nbsp; FUTURE FOR ALL
   <br>
   <br>
   <span style="font-weight: normal; font-size: normal;">
