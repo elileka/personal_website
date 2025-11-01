@@ -44,7 +44,7 @@ subtitle = ""
 +++
 
 1. **Levy Karin E** & Steinegger M. Cutting edge deep-learning based tools for metagenomic research. National Science Review. 2025. [PDF](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf056/8024426) 
-+ Kim W, Mirdita M, **Levy Karin E**, Gilchrist CL, Schweke H, Söding J, Levy E & Steinegger M. Rapid and Sensitive Protein Complex Alignment with Foldseek-Multimer. Nature Methods. 2025. [PDF](https://www.nature.com/articles/s41592-025-02593-7.pdf)
++ Kim W, Mirdita M, **Levy Karin E**, Gilchrist CL, Schweke H, Soeding J, Levy E & Steinegger M. Rapid and Sensitive Protein Complex Alignment with Foldseek-Multimer. Nature Methods. 2025. [PDF](https://www.nature.com/articles/s41592-025-02593-7.pdf)
 - Kim R S, **Levy Karin E**, Mirdita M, Chikhi R & Steinegger M. BFVD—a large repository of predicted viral protein structures. Nucleic Acids Research. 2024; gkae1119. [PDF](https://doi.org/10.1093/nar/gkae1119)
 - Kim G^, Lee S^, **Levy Karin E**^, Kim H, Moriwaki Y, Ovchinnikov S, Steinegger M & Mirdita M. Easy and accurate protein structure prediction using ColabFold. Nature Protocols. 2024; s41596-024-01060-5. [PDF](https://rdcu.be/dWViQ)
 - Lee S, Kim G, **Levy Karin E**, Mirdita M, Park S, Chikhi R, Babaian A, Kryshtafovych A, & Steinegger M. Petabase-Scale Homology Search for Structure Prediction. Cold Spring Harbor Perspectives in Biology. 2024; a041465. [PDF](http://m.cshperspectives.cshlp.org/content/early/2024/02/05/cshperspect.a041465.full.pdf)
